@@ -1,0 +1,6 @@
+{
+  "name": "Danielle's 19th Birthday",
+  "description": "A beautiful birthday website for Danielle's 19th birthday, featuring cherry tones, elegant typography, and a Gemini-powered Q&A.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
