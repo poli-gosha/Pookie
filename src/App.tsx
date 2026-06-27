@@ -6,7 +6,7 @@ const destinations = [
   {
     city: "Paris",
     desc: "A mesmerizing view of the Eiffel Tower lighting up the night sky, a promise awaiting fullfilment.",
-    img: "assets/Eiffel.jpeg",
+    img: "/Eiffel.jpeg",
     location: [48.8584, 2.2945] as [number, number]
   },
   {
@@ -18,7 +18,7 @@ const destinations = [
   {
     city: "Barcelona",
     desc:"White stone ribs curved like a prayer over stillness, capturing the light of a future our souls already remember.",
-    img: "assets/Barcelona.jpg",
+    img: "/Barcelona.jpg",
     location: [39.4532, -0.3526] as [number, number]
   }
 ];
@@ -49,8 +49,8 @@ const loves = [
     title: "Cherry & Peonies",
     subtitle: "A world painted in the deepest reds and the softest pinks.",
     description: "There is a quiet elegance in the way a peony blooms, unfurling its petals like a closely guarded secret. It is a visual poetry that matches your vibrant soul, reflecting a love for beauty that doesn't demand attention, but simply exists in its own breathtaking grace. The color cherry—bold, timeless, and unapologetically alive—is the exact shade of your lips.",
-    imgPrimary: "assets/Cherries.png",
-    imgSecondary: "assets/Peonies.png",
+    imgPrimary: "/Cherries.png",
+    imgSecondary: "/Peonies.png",
     theme: "bg-[var(--color-cream-100)] text-[var(--color-cherry-900)]",
     align: "left"
   },
@@ -67,8 +67,8 @@ const loves = [
     title: "Quiet Purrs",
     subtitle: "Pufffff",
     description: "Nu ar fi fost posibil să fi încheiat această felicitare fără Romeo desigur, cel mai majestic și frumos motan din toți care există. La mulți ani miau miau <3",
-    imgPrimary: "assets/Romeo2.jpeg",
-    imgSecondary: "assets/Romeo.jpeg",
+    imgPrimary: "/Romeo2.jpeg",
+    imgSecondary: "/Romeo.jpeg",
     theme: "bg-[#1a1a1a] text-[#f0f0f0]",
     align: "left"
   }
